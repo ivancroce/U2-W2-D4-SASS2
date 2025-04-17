@@ -13623,4 +13623,10 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+#saldi .card {
+  overflow: hidden;
+}
+#saldi .card .card-img-top {
+  border-radius: 0;
 }/*# sourceMappingURL=style.css.map */

@@ -1,1 +1,9 @@
 @import "./partials/bootsrap-overrides";
+
+#saldi .card {
+  overflow: hidden;
+
+  .card-img-top {
+    border-radius: 0;
+  }
+}
